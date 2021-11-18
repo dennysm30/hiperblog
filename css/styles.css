@@ -40,3 +40,13 @@ body {
 
 #post {
 }
+
+footer div {
+	width: 70%;
+	text-align: center;
+	border: 1px solid #000;
+	background-color: #333;
+	margin: 0 auto;
+	padding: 10px 0;
+	color: #fff;
+}
